@@ -1,2 +1,2 @@
-# NumericalNotebooks
-Notes and Notebooks in Numerical Methods
+# Notebooks
+Notes and Notebooks 
